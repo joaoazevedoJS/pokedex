@@ -1,0 +1,9 @@
+**/*.js
+/*.js
+node_modules
+build
+dist
+src/reportWebVitals.ts
+src/service-worker.ts
+src/serviceWorkerRegistration.ts
+src/react-app-env.d.ts
