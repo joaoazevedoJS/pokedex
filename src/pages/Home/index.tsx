@@ -7,7 +7,7 @@ import HeroImg from '../../assets/images/hero.svg';
 const Home: FC = () => {
   return (
     <HomeContainer>
-      <h1>LooqDex</h1>
+      <h1>Pokedex</h1>
 
       <img src={HeroImg} alt="Pikachu" />
 
@@ -23,7 +23,13 @@ const Home: FC = () => {
       </main>
 
       <footer>
-        <a href="http://" target="_blank" rel="noopener noreferrer">Criado com </a>
+        <a
+          href="https://github.com/joaoazevedoJS"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Criado pelo joaoazevedojs
+        </a>
       </footer>
     </HomeContainer>
   );

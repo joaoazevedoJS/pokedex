@@ -107,7 +107,7 @@ const Pokemon: FC = () => {
         <main>
           <section>
             <button type="button" onClick={handleNavigateToHome}>
-              <h1>Looqdex</h1>
+              <h1>Pokedex</h1>
             </button>
 
             <strong>
