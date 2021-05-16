@@ -13,6 +13,8 @@ const GlobalStyled = createGlobalStyle`
 
     --blue-400: #8dd4f7;
 
+    --green-400: #73D677;
+
     --gray-50: #E0E0E0;
     --gray-100: #dAdAdA;
     --gray-500: #9A9A9A;
